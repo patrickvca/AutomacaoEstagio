@@ -24,17 +24,6 @@ Depois disso, ela preenche automaticamente alguns campos em um formulário de oc
 - jQuery, quando disponível na página;
 - Select2, quando disponível no formulário.
 
-## O que foi removido/adaptado para publicação
-
-Por segurança, algumas informações foram substituídas por exemplos genéricos:
-
-- Nome real das empresas/sistemas;
-- Domínios reais dos portais usados no estágio/trabalho;
-- Código real da FAQ;
-- Valor real do assunto do atendimento;
-- Texto específico usado pelo bot no fluxo interno;
-- Qualquer dado que pudesse identificar clientes, empresa ou ambiente interno.
-
 ## Como configurar
 
 No arquivo `Automacao.js`, substitua os valores de exemplo:
